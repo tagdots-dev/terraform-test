@@ -83,8 +83,6 @@ nohup.out
 **/plans/*
 **/secrets/*
 **/state-backup/*
-workspace/*
-!workspace/example
 # Local .terraform directories
 **/.terraform/*
 
