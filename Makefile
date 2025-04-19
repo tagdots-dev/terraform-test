@@ -1,3 +1,4 @@
+# NOTE: this file is managed by terraform
 # Makefile
 
 NEW_DASH="-------------------------------------------------"
